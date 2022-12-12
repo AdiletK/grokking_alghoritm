@@ -1,3 +1,11 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+*.class
+
+*.xml
+*.html
+
+../out/**
+../out/
